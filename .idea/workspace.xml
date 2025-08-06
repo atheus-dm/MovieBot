@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37a17b5a-48e7-46e6-a789-76c527349cc3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_TG_Chumachenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_TG_Chumachenko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/db/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/db/mongo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/db/mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/actor_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/availability_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/exit_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/genre_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/history_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/keyword_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/language_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/recent_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/handlers/special_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/keyboards.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;atheus-dm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:atheus-dm/MovieBot.git&quot;,
+    &quot;accountId&quot;: &quot;35f8144d-0d27-4697-ad28-6c7cdb36887d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="30voc9RazzyqNFwB8Y5uce6L3Sy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ICH/Dmitriy/Data Analyst/Python_TG_Chumachenko",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37a17b5a-48e7-46e6-a789-76c527349cc3" name="Changes" comment="" />
+      <created>1754517484553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754517484553</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -14,7 +14,7 @@
 ## 🚀 Быстрый старт
 
 ```bash
-git clone https://github.com/yourusername/moviebot.git
+git clone git@github.com:atheus-dm/MovieBot.git
 cd moviebot
 python -m venv .venv
 .venv\Scripts\activate  # Windows
